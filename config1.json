@@ -1,0 +1,12 @@
+{
+
+  "server_ip": "46.174.50.174",
+  "server_port": 27016,
+  "custom_thumb": "https://test.com/images/test.png",
+  "refresh_time": 600,
+  "mm_status_reset_minutes": 30,
+  "map_banner": {
+    "de_aztec": "https://url.com/aztec.png",
+    "fy_pool_day": "https://url.com/fy_pool_day.png"
+  }
+}
